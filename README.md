@@ -1,2 +1,1 @@
-# -CodeCraft-Python-Project
-This project is developed using Python for data analysis and visualization. It focuses on processing, cleaning, and analyzing data to generate meaningful insights using Python libraries and analytical techniques.
+Git Commit is a version control feature used to record and save changes in a project. Each commit acts as a snapshot of the project at a specific point in time, allowing developers to track progress, manage updates, and maintain project history efficiently.
