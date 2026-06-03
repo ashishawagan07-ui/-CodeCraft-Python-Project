@@ -5,7 +5,7 @@ This project is developed using Python for data analysis and visualization. The 
 
 ## Features
 - Data Cleaning
-- Data Processing
+- Data Processings
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Trend & Pattern Analysis
